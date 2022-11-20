@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+
+		<parameter name="Id" value="abcd@gmail.com"></parameter>
+		<parameter name="Pass" value="252525"></parameter>
+
+		<parameter name="First" value="Shin"></parameter>
+		<parameter name="Last" value="Chan"></parameter>
+
+		<classes>
+			<class name="com.testng.attributes.Single_Data" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,1 @@
+{"uuid":"bbcf56a3-bade-4da6-a286-f53b6486f060","name":"com.tesNG.task.Adactin_TestNG","children":["f8d76a5b-a765-4806-9e0c-15c623dcd938"],"befores":[{"name":"Launch","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668959263755,"stop":1668959269542}],"afters":[],"start":1668959245054,"stop":1668959272381}
